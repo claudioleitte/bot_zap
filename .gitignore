@@ -1,0 +1,26 @@
+# Ambiente virtual
+.venv/
+
+# Build e distribuição
+build/
+dist/
+*.spec
+
+# Sessão do WhatsApp (dados sensíveis/temporários)
+whatsapp_session/
+
+# Dados sensíveis
+*.xlsx
+*.xls
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+*.txt
+
+# Executáveis
+*.exe
